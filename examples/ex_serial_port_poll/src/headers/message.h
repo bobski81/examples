@@ -1,0 +1,2 @@
+
+int message(char*,int);
